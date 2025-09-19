@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<doc>
+  <members>
+    <assembly>
+      <name>UnityEngine.UnityAnalyticsCommonModule</name>
+    </assembly>
+    <member name="T:UnityEngine.Analytics.AnalyticsResult">
+      <summary>
+        <para>Analytics API result.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.AnalyticsDisabled">
+      <summary>
+        <para>Analytics API result: Analytics is disabled.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.InvalidData">
+      <summary>
+        <para>Analytics API result: Invalid argument value.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.NotInitialized">
+      <summary>
+        <para>Analytics API result: Analytics not initialized.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.Ok">
+      <summary>
+        <para>Analytics API result: Success.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.SizeLimitReached">
+      <summary>
+        <para>Analytics API result: Argument size limit.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.TooManyItems">
+      <summary>
+        <para>Analytics API result: Too many parameters.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.TooManyRequests">
+      <summary>
+        <para>Analytics API result: Too many requests.</para>
+      </summary>
+    </member>
+    <member name="F:UnityEngine.Analytics.AnalyticsResult.UnsupportedPlatform">
+      <summary>
+        <para>Analytics API result: This platform doesn't support Analytics.</para>
+      </summary>
+    </member>
+  </members>
+</doc>
